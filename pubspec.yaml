@@ -1,0 +1,88 @@
+name: eccmobile
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+4
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dropdown_search: ^4.0.1
+
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  percent_indicator: ^4.2.2
+  email_validator: ^2.0.1
+  persistent_bottom_nav_bar_v2: ^4.2.3
+
+  flutter_bloc: ^8.0.1
+  bloc: ^8.0.3
+  get: ^4.6.5
+  http: ^0.13.4
+  alice: ^0.2.5
+  get_it: ^7.2.0
+  dio: ^4.0.6
+  qr_flutter: ^4.0.0
+  # fwfh_text_style: ^2.22.08+1
+  equatable: ^2.0.5
+  flutter_screenutil: ^5.5.4
+  loading_overlay: ^0.3.0
+  intl: ^0.17.0
+  flutter_barcode_scanner: ^2.0.0
+  # sliding_up_panel: ^2.0.0+1
+  badges: ^2.0.3
+  cached_network_image: ^3.2.1
+  shimmer: ^2.0.0
+  pull_to_refresh: ^2.0.0
+  image_picker: ^0.8.5+3
+  # flutter_webview_plugin: ^0.4.0
+  url_launcher: ^6.1.6
+  flutter_inappwebview: ^5.4.3+7
+  loading_animation_widget: ^1.2.0+3
+  currency_text_input_formatter: ^2.1.7
+  change_app_package_name: ^1.1.0
+  firebase_core: ^2.1.1
+  cloud_firestore: ^4.0.4
+  package_info_plus: ^1.4.2
+  launch_review: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/person/
+    - assets/icons/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Montserrat-Light.ttf
+          weight: 300
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto/Roboto-Black.ttf
+        - asset: assets/fonts/Roboto/Roboto-BlackItalic.ttf
+        - asset: assets/fonts/Roboto/Roboto-Bold.ttf
+        - asset: assets/fonts/Roboto/Roboto-Italic.ttf
+        - asset: assets/fonts/Roboto/Roboto-Light.ttf
+        - asset: assets/fonts/Roboto/Roboto-LightItalic.ttf
+        - asset: assets/fonts/Roboto/Roboto-Medium.ttf
+        - asset: assets/fonts/Roboto/Roboto-MediumItalic.ttf
+        - asset: assets/fonts/Roboto/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto/Roboto-Thin.ttf
+        - asset: assets/fonts/Roboto/Roboto-ThinItalic.ttf

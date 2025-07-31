@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201638551748",
+    "firebase_url": "https://ecc-kids-810f1-default-rtdb.firebaseio.com",
+    "project_id": "ecc-kids-810f1",
+    "storage_bucket": "ecc-kids-810f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201638551748:android:bcd46bf14e329e5afea991",
+        "android_client_info": {
+          "package_name": "com.komatech.creative_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201638551748-kv52cbtaqilod892lqd37ptnehrhfu1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.komatech.creative_kids",
+            "certificate_hash": "ca803c8e39a84930fe9248823472fb5862ecea4d"
+          }
+        },
+        {
+          "client_id": "201638551748-cu4oijsk3c2s6r6v1uta8dlgcdom28eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtogIRb4NZu79NfHTqLv37lBBdJoGwFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201638551748-cu4oijsk3c2s6r6v1uta8dlgcdom28eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

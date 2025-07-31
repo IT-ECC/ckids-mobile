@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>201638551748-joum3uft7ockn001o8orv2m03kv8pek9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201638551748-joum3uft7ockn001o8orv2m03kv8pek9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>201638551748-kv52cbtaqilod892lqd37ptnehrhfu1m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUIW8M2OAB5qYWDyMwKDymkzD1UgxBaiA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201638551748</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.komatech.creative-kids</string>
+	<key>PROJECT_ID</key>
+	<string>ecc-kids-810f1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecc-kids-810f1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201638551748:ios:e83a0e1537c1f24dfea991</string>
+	<key>DATABASE_URL</key>
+	<string>https://ecc-kids-810f1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
